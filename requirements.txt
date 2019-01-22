@@ -1,4 +1,5 @@
 flask
 flask-jsonpify
 flask-restful
+flask-cors
 pymongo
